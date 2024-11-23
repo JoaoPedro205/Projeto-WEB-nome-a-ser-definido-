@@ -159,6 +159,12 @@ Na versão 1.1.0, foram implementadas melhorias nas funcionalidades:
 
 ---
 
+# **Diagrama do Banco de Dados**
+
+![tabela png](https://github.com/user-attachments/assets/d259ef74-354d-4896-9150-df52c963cce7)
+
+---
+
 ## **Contribuidores**
 - Desenvolvedor: **João Pedro da Costa Januário**
 - Linguagem utilizada: **PHP**, **MYSQL**
