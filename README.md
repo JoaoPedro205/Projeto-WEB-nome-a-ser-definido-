@@ -1,7 +1,7 @@
-#**Sistema de Cadastro e Vendas - JP Veiculos**
+# **Sistema de Cadastro e Vendas - JP Veiculos**
 
-##**Descrição Geral**
+## **Descrição Geral**
 
 ---
 
-##**Funcionalidades Principais**
+## **Funcionalidades Principais**
